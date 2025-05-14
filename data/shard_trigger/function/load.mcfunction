@@ -1,0 +1,1 @@
+schedule function shard_trigger:main 1s replace
